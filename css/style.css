@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    background-color: #53cd72;
+
+}
+#header{
+    height: 114px;
+    width: 100%;
+}
+.box{
+    border: solid 2px black;
+    background-color: white;
+}
+#logo{
+    width: 25%;
+    height: 80px;
+    float: left;
+    margin: 10px 0px 0 20px;
+}
+#banner{
+    width: 75%;
+    /*border: solid 2px black;*/
+    /*background-color: white;*/
+    height: 80px;
+    float: left;
+    /*margin: 10px 22px 10px 22px;*/
+}
+#navbar{
+    padding: 10px;
+    margin: 0px 20px;
+}
+#navlink{
+    width: 85%;
+    float: left;
+}
+.leftsidebar {
+    width: 25%;
+    float: left;
+}
+.introduction{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+.content{
+    width: 50%;
+    float: left;
+}
+.hotnews{
+    width: 50%;
+    height: 150px;
+    margin: 20px 40px 20px 0;
+    float: left;
+}
+.photoside{
+    width: 40%;
+    height: 150px;
+    margin: 20px 0;
+    float: left;
+}
+.rightsidebar{
+    width: 20%;
+    float: left;
+}
+.news {
+    width: 30%;
+    height: 150px;
+    float: left;
+    margin: 20px 10px 20px 5px;
+}
+#footer{
+    clear: both;
+    margin: 0 20px;
+}
+.footer-text {
+    width: 77%;
+    float: left;
+}
+.footer-text p{
+    margin: 20px;
+}
+.navfooter{
+    padding: 20px;
+}
+a{
+    border-left: 1px solid black;
+    padding-left: 5px;
+}
+.firsta{
+    border-left: none!important;
+}
